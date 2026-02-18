@@ -1,2 +1,3 @@
 information from non fast forward branch
 this line is from main branch
+this line is from feature conflict branch
